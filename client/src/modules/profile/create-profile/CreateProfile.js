@@ -38,7 +38,7 @@ let CreateProfile = ()=>{
 
     return(
         <React.Fragment>
-            <pre>{JSON.stringify(localProfile)}</pre>
+//             <pre>{JSON.stringify(localProfile)}</pre>
              <section className="p-3">
                 <div className="container">
                     <div className="row">
